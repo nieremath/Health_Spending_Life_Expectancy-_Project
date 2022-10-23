@@ -1,6 +1,7 @@
-# Health_Spending_Life_Expectancy-_Project
+# Health_Spending_Life_Expectancy_Project
 Exploring Healthcare Spending and Life Expectancy from the Seaborn Library
 Final Presentation Slide Deck - https://docs.google.com/presentation/d/1jZlISbB6kHrOysYU48LAX4Di7fPVhzuo1_TSL0y5Crk/edit?usp=sharing
+Coded in Python
 
 ## Importing Libraries & Data
 The Health Spending and Life Expectancy data is a dataset already inside the seaborn library. To explore this dataset I imported the pandas, NumPy, Matplotlib and seaborn library into JupyterLab. 
